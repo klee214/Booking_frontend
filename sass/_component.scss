@@ -213,7 +213,7 @@
 
 .overview {
   display: flex;
-  justify-content: space-between;
+
   &__heading {
   }
 
@@ -221,7 +221,7 @@
     margin-right: auto;
   }
 
-  &__icon-star,
+  &__icon-stars,
   &__icon-location {
     width: 1.75rem;
     height: 1.75rem;
